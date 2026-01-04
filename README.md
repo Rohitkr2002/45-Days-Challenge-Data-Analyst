@@ -15,22 +15,35 @@ Gain confidence in working with real-world datasets
 The 45-day challenge is divided into daily tasks covering topics from beginner to intermediate level:
 
 Day	Topics Covered	Description
+
 1-5	Python Basics for Data Analysis	Variables, Data Types, Loops, Conditional Statements, Functions
+
 6-10	NumPy	Arrays, Operations, Indexing, Mathematical Functions
+
 11-20	Pandas	Series, DataFrames, Indexing, Filtering, GroupBy, Merge, Pivot Tables
+
 21-25	Data Cleaning	Handling Missing Values, Duplicates, Outliers, Data Transformation
+
 26-30	Data Visualization	Matplotlib, Seaborn, Line/Bar/Scatter/Pie Charts
+
 31-35	Statistical Analysis	Mean, Median, Mode, Standard Deviation, Correlation, Covariance
+
 36-40	Real-World Projects	Dataset Analysis, Insights Extraction, Report Generation
+
 41-45	Capstone Project	Complete Data Analysis Project with Dataset, Visualization, and Insights
 
 # 📚 Tools & Technologies Used
 
 Python – Main programming language
+
 NumPy – Numerical computations and arrays
+
 Pandas – Data manipulation and analysis
+
 Matplotlib & Seaborn – Data visualization
-Jupyter Notebook – Interactive coding environment
+
+Jupyter Notebook – Interactive coding 
+
 Google Colab – Cloud-based notebooks for coding practice
 
 # 🔥 Challenge Highlights
