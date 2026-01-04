@@ -41,7 +41,7 @@ Step-by-step notebooks with explanations, outputs, and insights
 Real-world datasets for practical experience
 Visualization of results for better understanding and storytelling
 
-#💡 Learning Outcomes
+# 💡 Learning Outcomes
 
 By completing this challenge, I aim to:
 Analyze datasets and extract actionable insights
