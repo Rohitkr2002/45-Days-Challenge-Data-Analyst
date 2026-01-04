@@ -54,4 +54,5 @@ Prepare for data analyst interviews and real-world projects
 Author: Rohit Kumar Singh
 
 LinkedIn: https://www.linkedin.com/in/rohit-kumar-singh-25168a226/
+
 GitHub: https://github.com/Rohitkr2002
